@@ -35,3 +35,4 @@ https://git.heroku.com/new-frontiers-flask.git
 
 4) Pousser mon code sur Heroku
 
+git push heroku master
